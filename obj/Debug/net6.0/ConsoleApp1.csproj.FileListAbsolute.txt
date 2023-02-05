@@ -1,0 +1,30 @@
+D:\Project\c шарп\4-я практическая\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\Project\c шарп\4-я практическая\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\Project\c шарп\4-я практическая\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\Project\c шарп\4-я практическая\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\Project\c шарп\4-я практическая\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\Project\c шарп\4-я практическая\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Project\c шарп\4-я практическая\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\c шарп\4-я практическая\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Project\c шарп\4-я практическая\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\Project\c шарп\4-я практическая\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Project\c шарп\4-я практическая\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\Project\c шарп\4-я практическая\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\Project\c шарп\4-я практическая\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\Project\c шарп\4-я практическая\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\Project\c шарп\4-я практическая\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\user\Desktop\C#\prl--4-main\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\user\Desktop\C#\prl--4-main\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\user\Desktop\C#\prl--4-main\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\user\Desktop\C#\prl--4-main\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\user\Desktop\C#\prl--4-main\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\user\Desktop\C#\prl--4-main\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\prl--4-main\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\prl--4-main\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\prl--4-main\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\prl--4-main\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\prl--4-main\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\user\Desktop\C#\prl--4-main\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\user\Desktop\C#\prl--4-main\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\user\Desktop\C#\prl--4-main\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\prl--4-main\obj\Debug\net6.0\ref\ConsoleApp1.dll
